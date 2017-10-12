@@ -9,6 +9,8 @@ To run it, you need:
 ```
 song = minim.loadFile("*.mp3", 1024);
 ```
+![Demo Image 1](https://user-images.githubusercontent.com/17792667/31480892-0720ba32-af53-11e7-96e9-b4a9dcff300d.png)
+![Demo Image 1](https://user-images.githubusercontent.com/17792667/31480842-c2f33ede-af52-11e7-9567-259be56e9eb8.png)
 
 The example music file **dlig.mp3** is [Anikdote & Culture Code - Don’t Let It Go (feat. Brado Sanz) [NCS Release]](https://www.youtube.com/watch?v=HGXtg8JDvZU).
 
