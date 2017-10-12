@@ -9,3 +9,11 @@ To run it, you need:
 ```
 song = minim.loadFile("*.mp3", 1024);
 ```
+
+The example music file **dlig.mp3** is [Anikdote & Culture Code - Don’t Let It Go (feat. Brado Sanz) [NCS Release]](https://www.youtube.com/watch?v=HGXtg8JDvZU).
+
+Music provided by NoCopyrightSounds.
+
+Watch: https://youtu.be/HGXtg8JDvZU
+
+Download/Stream: http://ncs.io/DontLetItGoCr
